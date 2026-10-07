@@ -1,4 +1,4 @@
-# 🚀 [Marketplace ASO Audit Review]
+# 🚀 Marketplace ASO Audit Review
 
 > **Trimble AI Global Hackathon 2026 Submission**  
 > *Brief one-line elevator pitch explaining what your solution does and who it helps.*
